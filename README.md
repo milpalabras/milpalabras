@@ -1,0 +1,2 @@
+- 👋 Hola, soy @milpalabras o Sergio
+- 👀 Soy un curioso de la tecnologia. Me interesa Arduino, python, Django...en ese orden
